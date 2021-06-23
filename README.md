@@ -1,0 +1,1 @@
+This project predicts the personality of any person based on any kind of document or tweets.
